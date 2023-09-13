@@ -105,8 +105,8 @@ color: var(--link-color);
 .request-our-services:hover,
 .request-our-services:focus,
 .request-our-services:active {
-    background-color: #FFFFFF;
-    color: #188CE8;
+    color: #FFFFFF;
+    background-color: #188CE8;
 }
 .competitive-advantage {
     display: inline-block;
