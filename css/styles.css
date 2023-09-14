@@ -4,7 +4,7 @@
     --link-color: #2196F3;
     --details-color: #757575;
     --background-color: #2F303A;
-    --button-backgroud: #F5F4FA;
+    --filter-backgroud: #F5F4FA;
     --text-font-family:'Roboto', sans-serif;
     --logo-font-family: 'Raleway', sans-serif;
 }
@@ -196,7 +196,7 @@ footer {
     line-height: 26px;
     letter-spacing: 0.03em;
     text-align: center;
-    background-color: var(--button-backgroud);
+    background-color: var(--filter-backgroud);
     border:none;
     cursor: pointer;
 }
